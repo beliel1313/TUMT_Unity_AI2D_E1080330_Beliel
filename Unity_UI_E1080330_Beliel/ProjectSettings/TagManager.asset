@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - vIcons
+  - Trap
+  - Goal
+  - debug
   layers:
   - Default
   - TransparentFX
